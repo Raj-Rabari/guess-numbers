@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/guess-numbers/static/css/main.fb4309d4.css",
+    "main.js": "/guess-numbers/static/js/main.908306a2.js",
+    "static/js/787.a73820cc.chunk.js": "/guess-numbers/static/js/787.a73820cc.chunk.js",
+    "index.html": "/guess-numbers/index.html",
+    "main.fb4309d4.css.map": "/guess-numbers/static/css/main.fb4309d4.css.map",
+    "main.908306a2.js.map": "/guess-numbers/static/js/main.908306a2.js.map",
+    "787.a73820cc.chunk.js.map": "/guess-numbers/static/js/787.a73820cc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb4309d4.css",
+    "static/js/main.908306a2.js"
+  ]
+}
